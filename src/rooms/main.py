@@ -159,4 +159,5 @@ def main():
     print("Number of rooms needed: {}".format(result))
 
 
+# added main to be able to run the application from the command line
 main()
